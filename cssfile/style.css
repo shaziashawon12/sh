@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#pera3{
+    background-color: blueviolet;width: 200px;height: 200px;
+}
+.pera{
+    background-color: blue;width: 200px; ;height: 200px;
+}
+.pera2{
+    background-color: chartreuse;width: 200px;height: 200px;
+}
+.peraH{
+    background-color: aqua;width: 400px;height: 400px;
+}
+.pera4{
+   background-color:darkmagenta ;width:700px; height: 700px;position: relative;
+}
+.child1{
+    background-color: darkorange;width: 200px;height:200px;
+}
+.child1{
+    position: absolute;left: 0;top: 0;
+}                                                                              
+.child2{
+    background-color: aquamarine;width: 250px;height: 200px;z-index: 20;position: relative;
+}
+.child3{
+    background-color: blueviolet;width: 200px;height: 200px;z-index: 22;position: relative;top: 0;position: absolute;
+}
